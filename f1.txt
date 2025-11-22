@@ -1,7 +1,15 @@
 abc
 kml
+<<<<<<< HEAD
 line1
 line2
 123
 789
 000
+=======
+line 2
+line3
+line 5
+line 7
+line 8
+>>>>>>> b1
